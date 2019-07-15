@@ -1,0 +1,130 @@
+[
+    {
+        "value": 168,
+        "labels": {
+            "nation": "germany",
+            "eyes": "green",
+            "hair": "brown"
+        }
+    },
+    {
+        "value": 359,
+        "labels": {
+            "nation": "spain",
+            "eyes": "green",
+            "hair": "brown"
+        }
+    },
+    {
+        "value": 389,
+        "labels": {
+            "nation": "germany",
+            "eyes": "blue",
+            "hair": "brown"
+        }
+    },
+    {
+        "value": 468,
+        "labels": {
+            "nation": "germany",
+            "eyes": "dark",
+            "hair": "black"
+        }
+    },
+    {
+        "value": 103,
+        "labels": {
+            "nation": "germany",
+            "eyes": "dark",
+            "hair": "brown"
+        }
+    },
+    {
+        "value": 506,
+        "labels": {
+            "nation": "france",
+            "eyes": "blue",
+            "hair": "black"
+        }
+    },
+    {
+        "value": 148,
+        "labels": {
+            "nation": "italy",
+            "eyes": "dark",
+            "hair": "black"
+        }
+    },
+    {
+        "value": 778,
+        "labels": {
+            "nation": "spain",
+            "eyes": "brown",
+            "hair": "red"
+        }
+    },
+    {
+        "value": 536,
+        "labels": {
+            "nation": "germany",
+            "eyes": "green",
+            "hair": "red"
+        }
+    },
+    {
+        "value": 288,
+        "labels": {
+            "nation": "france",
+            "eyes": "green",
+            "hair": "blonde"
+        }
+    },
+    {
+        "value": 857,
+        "labels": {
+            "nation": "france",
+            "eyes": "green",
+            "hair": "black"
+        }
+    },
+    {
+        "value": 907,
+        "labels": {
+            "nation": "spain",
+            "eyes": "dark",
+            "hair": "black"
+        }
+    },
+    {
+        "value": 906,
+        "labels": {
+            "nation": "germany",
+            "eyes": "green",
+            "hair": "red"
+        }
+    },
+    {
+        "value": 753,
+        "labels": {
+            "nation": "germany",
+            "eyes": "brown",
+            "hair": "red"
+        }
+    },
+    {
+        "value": 852,
+        "labels": {
+            "nation": "spain",
+            "eyes": "blue",
+            "hair": "black"
+        }
+    },
+    {
+        "value": 498,
+        "labels": {
+            "nation": "france",
+            "eyes": "blue",
+            "hair": "black"
+        }
+    }
+]
